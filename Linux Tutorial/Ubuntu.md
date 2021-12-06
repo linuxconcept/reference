@@ -126,4 +126,4 @@
 [](https://linuxconcept.com/how-to-install-virtualbox-on-ubuntu-21-04-linux/)
 [](https://linuxconcept.com/how-to-install-nginx-on-ubuntu-21-04-server/)
 [](https://linuxconcept.com/how-to-add-swap-space-on-ubuntu-21-04-operating-system/)
-[](https://linuxconcept.com/how-to-install-couchdb-on-ubuntu-21-04-linux-operating-system/)
+[How to Install CouchDB on Ubuntu 21.04 Linux Operating System](https://linuxconcept.com/how-to-install-couchdb-on-ubuntu-21-04-linux-operating-system/)
